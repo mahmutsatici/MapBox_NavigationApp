@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SinyorMap</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic2VueW9yIiwiYSI6ImNsd2Zkc2JkZTFvcG8yanBsaDE2ajkzYWwifQ.UDZmAT5gfKEArwSz_IT9Rg</string>
+</resources>
